@@ -6,7 +6,7 @@ Un resultado:
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Mh0lSSvVcBo
-" target="_blank"><img src="https://scontent.flim2-1.fna.fbcdn.net/v/t1.0-9/67832998_2867301863285783_7091836525842792448_n.jpg?_nc_cat=102&_nc_oc=AQmkX2jcD9MGkbFfk7CKZ5gHxEzuEZZnfzGWcefuMPEC2WLwIRUPvUlynvzEzDsYrFs&_nc_ht=scontent.flim2-1.fna&oh=a3b7a356d3cdfee3a927455a735b14d4&oe=5DD017C7" 
+" target="_blank"><img src="https://github.com/sandroormeno/Vallejo_con_TPUs/blob/master/data/vallejo_youtube.jpg" 
 alt="IMAGE ALT TEXT HERE" width="600" height="300" border="10" /></a>  
 
 Use el archivo: [Predict Vallejo with Cloud TPUs and Keras](https://github.com/sandroormeno/Vallejo_con_TPUs/blob/master/Predict_vellejo_with_Cloud_TPUs_and_Keras.ipynb)  
